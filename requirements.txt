@@ -10,5 +10,5 @@ pandas==2.2.3
 regex==2024.11.6
 scikit-learn==1.6.1
 gunicorn
--e 
+-e .
 
