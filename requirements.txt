@@ -1,9 +1,14 @@
-pandas
-numpy 
-seaborn 
-matplotlib
-scikit-learn
-nltk
-dill
-flask
-#-e .
+dill==0.3.9
+Flask==3.1.0
+-e 
+Jinja2==3.1.6
+joblib==1.4.2
+matplotlib==3.10.1
+nltk==3.9.1
+numpy==2.2.4
+packaging==24.2
+pandas==2.2.3
+regex==2024.11.6
+scikit-learn==1.6.1
+
+
