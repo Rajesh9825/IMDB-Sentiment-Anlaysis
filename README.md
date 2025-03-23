@@ -15,7 +15,7 @@ Sentiment analysis of movie reviews is a key application of natural language pro
 
 
 ## Project Structure
-
+```
 IMDB_Sentiment_Analysis/
 │-- artifacts/                 # Dataset and preprocessed data
 |   |-- cleaned_data.csv
@@ -46,13 +46,13 @@ IMDB_Sentiment_Analysis/
 │-- README.md             # Project documentation
 │-- requirements.txt      # Dependencies
 |-- setup.py
-
+```
 
 ## Project Workflow
 ### 1. Data Collection
-* Dataset: IMDb movie reviews dataset (pre-labeled with positive and negative sentiments).
+* Dataset: IMDB Dataset of Movies Reviews
 
-* Source: Downloaded from Kaggle or IMDb dataset repository.
+* Source: Downloaded from Kaggle( https://www.kaggle.com/datasets/crisbam/imdb-dataset-of-65k-movie-reviews-and-translation )
 
 ### 2. Data Preprocessing
 * Removed HTML tags and special characters.
