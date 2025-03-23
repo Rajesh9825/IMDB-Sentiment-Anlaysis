@@ -92,9 +92,11 @@ IMDB_Sentiment_Analysis/
 
 * Developed a Flask web application for real-time review classification.
 
-* Hosted the model on Render (cost-free hosting).
+* Initially deployed the model on an AWS EC2 instance using SSH for connection.
 
-* Users can input a review and get sentiment predictions instantly.
+* Due to cost concerns, migrated the deployment to Render (cost-free hosting).
+
+* Users can input a review and get sentiment predictions instantly through a Flask web application.
 
 live demo : https://imdb-reviews-sentiment-analysis-q27f.onrender.com
 
