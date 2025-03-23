@@ -36,7 +36,7 @@ IMDB_Sentiment_Analysis/
 |   |-- exception.py
 |   |-- logger.py
 |   |--utils.py
-<!-- │-- static/               # CSS, JS, and other static files for web app -->
+<!-- │-- static/          # CSS, JS, and other static files for web app -->
 │-- templates/            # HTML templates for Flask app
 |   |-- home.html
 |   |-- predict.html
@@ -95,6 +95,8 @@ IMDB_Sentiment_Analysis/
 * Hosted the model on Render (cost-free hosting).
 
 * Users can input a review and get sentiment predictions instantly.
+
+live demo : https://imdb-reviews-sentiment-analysis-q27f.onrender.com
 
 ## Results
 
